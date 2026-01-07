@@ -17,4 +17,4 @@ It covers installation, model loading, inference on images/videos, and basic und
 - OpenCV
 - NumPy
 
-## 📂 Project Structure
+
